@@ -88,5 +88,5 @@ En nuestra [consulta](/) trabajamos con cada paciente de forma individualizada, 
 ## Artículos relacionados
 
 - [¿Cuándo acudir a un nutricionista? 7 señales que no debes ignorar](/blog/cuando-acudir-nutricionista)
-- [Cómo elegir el mejor nutricionista en Leganés](/blog/como-elegir-nutricionista-leganes)
+- [Cómo elegir el mejor nutricionista en Salamanca](/blog/como-elegir-nutricionista-salamanca)
 - [Tu primera consulta con el nutricionista: qué esperar y cómo prepararte](/blog/primera-consulta-nutricionista)

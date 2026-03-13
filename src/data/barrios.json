@@ -1,100 +1,100 @@
 [
   {
-    "id": "leganes-centro",
-    "slug": "nutricionista-leganes-centro",
-    "name": "Leganés Centro",
-    "description": "Nutricionista en el centro de Leganés, cerca de la Plaza de España, el Ayuntamiento, el Teatro José Monleón y la Iglesia de San Salvador.",
+    "id": "salamanca-centro",
+    "slug": "nutricionista-salamanca-centro",
+    "name": "Salamanca Centro",
+    "description": "Nutricionista en el centro de Salamanca, cerca de la Plaza Mayor, la Universidad de Salamanca, la Catedral Nueva y la Casa de las Conchas.",
     "landmarks": [
-      "Plaza de España",
-      "Ayuntamiento de Leganés",
-      "Teatro José Monleón",
-      "Iglesia de San Salvador"
+      "Plaza Mayor de Salamanca",
+      "Universidad de Salamanca",
+      "Catedral Nueva",
+      "Casa de las Conchas"
     ],
-    "metaTitle": "Nutricionista en Leganés Centro — nutricionistaenleganes.com",
-    "metaDescription": "Nutricionista en Leganés Centro, junto al Ayuntamiento y Plaza de España. Consulta presencial y online. Reserva tu cita."
+    "metaTitle": "Nutricionista en Salamanca Centro — nutricionistaensalamanca.com",
+    "metaDescription": "Nutricionista en Salamanca Centro, junto a la Plaza Mayor y la Universidad. Consulta presencial y online. Reserva tu cita."
   },
   {
-    "id": "zarzaquemada",
-    "slug": "nutricionista-zarzaquemada-leganes",
-    "name": "Zarzaquemada",
-    "description": "Nutricionista en Zarzaquemada, uno de los barrios más poblados de Leganés con excelente acceso al Metro y cercanías.",
+    "id": "garrido",
+    "slug": "nutricionista-garrido-salamanca",
+    "name": "Garrido",
+    "description": "Nutricionista en Garrido, uno de los barrios más poblados de Salamanca con excelente acceso a servicios y comercio local.",
     "landmarks": [
-      "Estación de Cercanías Zarzaquemada",
-      "Centro Comercial Parquesur (cercano)",
-      "Polideportivo Europa",
-      "Parque de la Hispanidad"
+      "Mercado de Garrido",
+      "Plaza de la Concordia",
+      "Parque de Garrido",
+      "Centro Comercial El Tormes (cercano)"
     ],
-    "metaTitle": "Nutricionista en Zarzaquemada Leganés — nutricionistaenleganes.com",
-    "metaDescription": "Nutricionista en Zarzaquemada (Leganés), junto a Cercanías y Parquesur. Primera consulta 50€. Reserva cita."
+    "metaTitle": "Nutricionista en Garrido Salamanca — nutricionistaensalamanca.com",
+    "metaDescription": "Nutricionista en Garrido (Salamanca), barrio céntrico y bien comunicado. Primera consulta 50€. Reserva cita."
   },
   {
-    "id": "la-fortuna",
-    "slug": "nutricionista-la-fortuna-leganes",
-    "name": "La Fortuna",
-    "description": "Nutricionista en La Fortuna, barrio con acceso directo al Metro Línea 11 y ambiente dinámico y multicultural.",
+    "id": "pizarrales",
+    "slug": "nutricionista-pizarrales-salamanca",
+    "name": "Pizarrales",
+    "description": "Nutricionista en Pizarrales, barrio tradicional de Salamanca con ambiente de barrio y proximidad al centro histórico.",
     "landmarks": [
-      "Metro La Fortuna (L11)",
-      "Centro Cultural La Fortuna",
-      "Parque de La Fortuna",
-      "CEIP La Fortuna"
+      "Parque de los Jesuitas",
+      "Centro Cultural Pizarrales",
+      "Iglesia de la Purísima",
+      "Zona comercial de Pizarrales"
     ],
-    "metaTitle": "Nutricionista en La Fortuna Leganés — nutricionistaenleganes.com",
-    "metaDescription": "Nutricionista en La Fortuna (Leganés), junto al Metro L11. Consulta presencial y online. Reserva tu cita."
+    "metaTitle": "Nutricionista en Pizarrales Salamanca — nutricionistaensalamanca.com",
+    "metaDescription": "Nutricionista en Pizarrales (Salamanca), junto al Parque de los Jesuitas. Consulta presencial y online. Reserva tu cita."
   },
   {
-    "id": "san-nicasio",
-    "slug": "nutricionista-san-nicasio-leganes",
-    "name": "San Nicasio",
-    "description": "Nutricionista en San Nicasio, barrio emblemático de Leganés con zonas verdes, colegios y el conocido Parque de San Nicasio.",
+    "id": "san-bernardo",
+    "slug": "nutricionista-san-bernardo-salamanca",
+    "name": "San Bernardo",
+    "description": "Nutricionista en San Bernardo, barrio emblemático de Salamanca con zonas verdes, colegios y el conocido Puente Romano.",
     "landmarks": [
-      "Parque de San Nicasio",
-      "Centro Cultural San Nicasio",
-      "Instalaciones deportivas municipales",
-      "Colegios e institutos del barrio"
+      "Puente Romano",
+      "Parque Fluvial del Tormes",
+      "Colegio San Estanislao de Kostka",
+      "Iglesia de San Marcos"
     ],
-    "metaTitle": "Nutricionista en San Nicasio Leganés — nutricionistaenleganes.com",
-    "metaDescription": "Nutricionista en San Nicasio (Leganés). Consulta presencial y online. Primera consulta 50€. Reserva."
+    "metaTitle": "Nutricionista en San Bernardo Salamanca — nutricionistaensalamanca.com",
+    "metaDescription": "Nutricionista en San Bernardo (Salamanca). Consulta presencial y online. Primera consulta 50€. Reserva."
   },
   {
-    "id": "el-carrascal",
-    "slug": "nutricionista-el-carrascal-leganes",
-    "name": "El Carrascal",
-    "description": "Nutricionista en El Carrascal, zona residencial moderna de Leganés con viviendas nuevas, parques y acceso rápido a la M-45.",
+    "id": "prosperidad",
+    "slug": "nutricionista-prosperidad-salamanca",
+    "name": "Prosperidad",
+    "description": "Nutricionista en Prosperidad, zona residencial de Salamanca con viviendas, parques y buena comunicación con el centro.",
     "landmarks": [
-      "Zona residencial de nueva construcción",
-      "Parques y zonas ajardinadas",
-      "Acceso rápido a M-45 y M-406",
-      "Centros educativos del barrio"
+      "Estadio Helmántico",
+      "Centro Comercial Vialia",
+      "Estación de tren de Salamanca",
+      "Parque de la Prosperidad"
     ],
-    "metaTitle": "Nutricionista en El Carrascal Leganés — nutricionistaenleganes.com",
-    "metaDescription": "Nutricionista en El Carrascal (Leganés), zona residencial moderna. Consulta presencial y online. Reserva tu cita."
+    "metaTitle": "Nutricionista en Prosperidad Salamanca — nutricionistaensalamanca.com",
+    "metaDescription": "Nutricionista en Prosperidad (Salamanca), zona residencial bien comunicada. Consulta presencial y online. Reserva tu cita."
   },
   {
-    "id": "arroyo-culebro",
-    "slug": "nutricionista-arroyo-culebro-leganes",
-    "name": "Arroyo Culebro",
-    "description": "Nutricionista en Arroyo Culebro, zona de Leganés cercana al parque lineal del Arroyo Culebro, ideal para familias y deportistas.",
+    "id": "san-jose",
+    "slug": "nutricionista-san-jose-salamanca",
+    "name": "San José",
+    "description": "Nutricionista en San José, barrio de Salamanca cercano al Hospital Clínico Universitario y a zonas deportivas.",
     "landmarks": [
-      "Parque Lineal del Arroyo Culebro",
-      "Polideportivo Municipal",
-      "Zonas verdes y senderos",
-      "Acceso a M-45"
+      "Hospital Clínico Universitario",
+      "Facultad de Medicina USAL",
+      "Complejo deportivo Salas Bajas",
+      "Parque de San José"
     ],
-    "metaTitle": "Nutricionista en Arroyo Culebro Leganés — nutricionistaenleganes.com",
-    "metaDescription": "Nutricionista en Arroyo Culebro (Leganés), cerca del parque lineal. Consulta presencial y online. Primera consulta 50€."
+    "metaTitle": "Nutricionista en San José Salamanca — nutricionistaensalamanca.com",
+    "metaDescription": "Nutricionista en San José (Salamanca), cerca del Hospital Clínico. Consulta presencial y online. Primera consulta 50€."
   },
   {
-    "id": "vereda-de-los-estudiantes",
-    "slug": "nutricionista-vereda-estudiantes-leganes",
-    "name": "Vereda de los Estudiantes",
-    "description": "Nutricionista en Vereda de los Estudiantes, zona universitaria de Leganés con el campus de la Universidad Carlos III.",
+    "id": "capuchinos",
+    "slug": "nutricionista-capuchinos-salamanca",
+    "name": "Capuchinos",
+    "description": "Nutricionista en Capuchinos, zona universitaria de Salamanca con el campus de la Universidad Pontificia y residencias estudiantiles.",
     "landmarks": [
-      "Universidad Carlos III de Madrid",
-      "Estación de Cercanías Leganés Central",
-      "Zona de residencias universitarias",
-      "Parques y zonas deportivas"
+      "Universidad Pontificia de Salamanca",
+      "Convento de las Úrsulas",
+      "Palacio de Monterrey",
+      "Parque de los Capuchinos"
     ],
-    "metaTitle": "Nutricionista en Vereda de los Estudiantes Leganés — nutricionistaenleganes.com",
-    "metaDescription": "Nutricionista en Vereda de los Estudiantes (Leganés), junto a la UC3M. Consulta presencial. Reserva cita."
+    "metaTitle": "Nutricionista en Capuchinos Salamanca — nutricionistaensalamanca.com",
+    "metaDescription": "Nutricionista en Capuchinos (Salamanca), junto a la Universidad Pontificia. Consulta presencial. Reserva cita."
   }
 ]

@@ -5,7 +5,7 @@ date: "2025-09-05"
 tags: ["Nutrición general", "Consulta online"]
 ---
 
-Cuando pienso en los motivos por los que algunas personas no acuden a un nutricionista, muchos tienen que ver con la logística: falta de tiempo, distancia, horarios incompatibles o simplemente la pereza de desplazarse. Por eso, desde hace tiempo ofrezco la posibilidad de realizar la [consulta de nutrición online](/nutricionista-online), con exactamente la misma calidad y dedicación que la consulta presencial en Leganés.
+Cuando pienso en los motivos por los que algunas personas no acuden a un nutricionista, muchos tienen que ver con la logística: falta de tiempo, distancia, horarios incompatibles o simplemente la pereza de desplazarse. Por eso, desde hace tiempo ofrezco la posibilidad de realizar la [consulta de nutrición online](/nutricionista-online), con exactamente la misma calidad y dedicación que la consulta presencial en Salamanca.
 
 Si te has planteado mejorar tu alimentación pero no sabes si la modalidad online es para ti, en este artículo te contamos cómo funciona, qué ventajas tiene y qué puedes esperar de la experiencia.
 
@@ -13,7 +13,7 @@ Si te has planteado mejorar tu alimentación pero no sabes si la modalidad onlin
 
 La consulta online está diseñada para adaptarse a diferentes perfiles y situaciones:
 
-- **Personas que viven fuera de Leganés o de Madrid.** No importa dónde estés: podemos acompañarte desde cualquier punto de España e incluso desde el extranjero.
+- **Personas que viven fuera de Salamanca.** No importa dónde estés: podemos acompañarte desde cualquier punto de España e incluso desde el extranjero.
 - **Personas con agendas muy ajustadas.** Si entre el trabajo, los niños y las obligaciones del día a día te resulta complicado acudir a consulta, la modalidad online elimina el tiempo de desplazamiento.
 - **Consultas de seguimiento.** Muchos pacientes que empiezan de forma presencial prefieren realizar los seguimientos posteriores online, ya que son citas más ágiles y cómodas.
 - **Personas con movilidad reducida.** Si tienes alguna dificultad para desplazarte, la consulta online garantiza que puedas acceder a una atención nutricional de calidad sin moverte de casa.
@@ -100,7 +100,7 @@ Además, si necesitas cancelar o reprogramar, el proceso es más ágil. Y si est
 
 Si llevas tiempo pensando en mejorar tu alimentación pero la logística te frena, la consulta online elimina esas barreras. Puedes conocer todos los detalles y reservar tu cita en nuestra página de [nutricionista online](/nutricionista-online).
 
-Y si prefieres conocernos primero o entender cómo es una primera consulta con un nutricionista, te recomendamos leer nuestro artículo sobre [qué esperar en tu primera consulta](/blog/primera-consulta-nutricionista). También puede interesarte saber [cómo elegir nutricionista en Leganés](/blog/como-elegir-nutricionista-leganes) si estás comparando opciones.
+Y si prefieres conocernos primero o entender cómo es una primera consulta con un nutricionista, te recomendamos leer nuestro artículo sobre [qué esperar en tu primera consulta](/blog/primera-consulta-nutricionista). También puede interesarte saber [cómo elegir nutricionista en Salamanca](/blog/como-elegir-nutricionista-salamanca) si estás comparando opciones.
 
 **La distancia ya no es excusa. Tu salud merece atención profesional, estés donde estés.**
 
@@ -109,5 +109,5 @@ Y si prefieres conocernos primero o entender cómo es una primera consulta con u
 ## Artículos relacionados
 
 - [Tu primera consulta con el nutricionista: qué esperar](/blog/primera-consulta-nutricionista)
-- [Cómo elegir nutricionista en Leganés](/blog/como-elegir-nutricionista-leganes)
+- [Cómo elegir nutricionista en Salamanca](/blog/como-elegir-nutricionista-salamanca)
 - [Cuándo acudir a un nutricionista](/blog/cuando-acudir-nutricionista)

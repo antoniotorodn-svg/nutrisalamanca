@@ -7,7 +7,7 @@ tags: ["Alimentación saludable", "Pérdida de peso"]
 
 Si alguna vez has llegado a casa después de un largo día de trabajo y has acabado cenando lo primero que encontraste en la nevera, sabes lo difícil que es mantener una alimentación saludable sin planificación. El **meal prep**, o preparación de comidas semanal, es la herramienta que puede cambiar por completo tu forma de comer sin que tengas que pasar horas en la cocina cada día.
 
-En nuestra consulta de nutrición en Leganés, la organización del menú semanal es uno de los pilares que trabajamos con todos nuestros pacientes. Porque una buena alimentación no empieza en la cocina: **empieza en la planificación**.
+En nuestra consulta de nutrición en Salamanca, la organización del menú semanal es uno de los pilares que trabajamos con todos nuestros pacientes. Porque una buena alimentación no empieza en la cocina: **empieza en la planificación**.
 
 ## Qué es el meal prep y por qué funciona
 

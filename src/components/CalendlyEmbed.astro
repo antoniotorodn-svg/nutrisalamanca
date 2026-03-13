@@ -1,15 +1,13 @@
 ---
 interface Props {
-  type: 'soraya' | 'jose' | 'soraya-parejas' | 'jose-parejas';
+  type: 'individual' | 'parejas';
 }
 
 const { type } = Astro.props;
 
 const urls: Record<string, string> = {
-  'soraya': 'https://calendly.com/salamanca/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
-  'jose': 'https://calendly.com/joseluistodoli/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
-  'soraya-parejas': 'https://calendly.com/salamanca/primera-consulta-salamanca?hide_event_type_details=1&hide_gdpr_banner=1',
-  'jose-parejas': 'https://calendly.com/joseluistodoli/primera-consulta-pareja?hide_event_type_details=1&hide_gdpr_banner=1',
+  'individual': 'https://calendly.com/joseluisnutricion/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
+  'parejas': 'https://calendly.com/joseluisnutricion/primera-consulta-2-personas?hide_event_type_details=1&hide_gdpr_banner=1',
 };
 
 const calendlyUrl = urls[type];

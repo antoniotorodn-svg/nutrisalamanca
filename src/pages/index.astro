@@ -21,11 +21,11 @@ const faqItems = [
   },
   {
     question: "¿Quiénes son los nutricionistas en Salamanca?",
-    answer: "En Salamanca te atenderán José Luis Todolí y Soraya Sánchez, dietistas-nutricionistas con experiencia en pérdida de grasa, nutrición clínica y educación alimentaria. Ambos forman parte del equipo de nutricionistaensalamanca.com y llevan años atendiendo pacientes."
+    answer: "En Salamanca te atenderá José Luis Risueño, dietista-nutricionista con experiencia en pérdida de grasa, nutrición clínica y educación alimentaria. Forma parte del equipo de nutricionista.io y lleva años atendiendo pacientes."
   },
   {
     question: "¿Qué se hace en la primera consulta de nutrición en Salamanca?",
-    answer: "Soraya o José Luis te harán una entrevista detallada para entender tu punto de partida: hábitos, rutina, posibles intolerancias y objetivos. En un máximo de 72 horas tendrás tu plan nutricional por email con menús adaptados a tus gustos, recetas prácticas y lista de la compra."
+    answer: "José Luis te hará una entrevista detallada para entender tu punto de partida: hábitos, rutina, posibles intolerancias y objetivos. En un máximo de 72 horas tendrás tu plan nutricional por email con menús adaptados a tus gustos, recetas prácticas y lista de la compra."
   },
   {
     question: "¿Cada cuánto son las revisiones con el nutricionista?",
@@ -33,7 +33,7 @@ const faqItems = [
   },
   {
     question: "¿Cuánto cuesta el nutricionista en Salamanca?",
-    answer: "Primera consulta: 50€ (incluye entrevista + plan + material formativo). Revisiones: 50€. Pack de 4 sesiones (primera + 3 revisiones): 140€ — ahorras 30€ respecto a contratarlas por separado. Aceptamos pago en efectivo y tarjeta."
+    answer: "Primera consulta: 50€ (incluye entrevista + plan + material formativo). Revisiones: 40€. Pack de 4 sesiones (primera + 3 revisiones): 140€ — ahorras 30€ respecto a contratarlas por separado. Aceptamos pago en efectivo y tarjeta."
   },
   {
     question: "¿Tendré que comprar suplementos o productos especiales?",
@@ -41,7 +41,7 @@ const faqItems = [
   },
   {
     question: "¿Cuál es el horario de la consulta en Salamanca?",
-    answer: "De lunes a viernes de 9:00 a 21:00. Puedes reservar por teléfono (623 99 89 39), WhatsApp (644 98 52 09) o a través del calendario online de esta misma página."
+    answer: "De lunes a viernes de 9:00 a 14:00 y de 16:00 a 20:30. Puedes reservar por teléfono (623 99 89 39), WhatsApp (623 94 97 96) o a través del calendario online de esta misma página."
   },
   {
     question: "¿El nutricionista en Salamanca también atiende online?",
@@ -49,7 +49,7 @@ const faqItems = [
   },
   {
     question: "¿Hacéis dietas para deportistas en Salamanca?",
-    answer: "Sí. José Luis está especializado en nutrición deportiva: running, CrossFit, pádel, fútbol sala, ciclismo y más. Adaptamos la alimentación a tus entrenamientos, competiciones y objetivos de rendimiento o composición corporal."
+    answer: "Sí. José Luis Risueño está especializado en nutrición deportiva: running, CrossFit, pádel, fútbol sala, ciclismo y más. Adaptamos la alimentación a tus entrenamientos, competiciones y objetivos de rendimiento o composición corporal."
   },
   {
     question: "¿Puedo ir al nutricionista en Salamanca si tengo una patología?",
@@ -136,29 +136,35 @@ const faqSchema = {
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "HealthBusiness",
-  "name": "Nutricionista en Salamanca — Soraya Sánchez y José Luis Todolí",
+  "name": "Nutricionista en Salamanca — José Luis Risueño",
   "description": "Consulta de nutrición en Salamanca. Dietistas-nutricionistas colegiados especializados en pérdida de peso, nutrición deportiva, salud digestiva y hormonal.",
-  "url": "https://nutricionistaensalamanca.com",
+  "url": "https://nutricionista.io/nutricionista-salamanca",
   "telephone": "+34623998939",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Calle Toro, 22",
+    "streetAddress": "Calle Chile 1 (CRM Bodysolutions)",
     "addressLocality": "Salamanca",
     "addressRegion": "Castilla y León",
-    "postalCode": "37002",
+    "postalCode": "37003",
     "addressCountry": "ES"
   },
   "geo": {
     "@type": "GeoCoordinates",
     "latitude": 40.9650,
-    "longitude": -5.6640
+    "longitude": -5.6631
   },
   "openingHoursSpecification": [
     {
       "@type": "OpeningHoursSpecification",
       "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
       "opens": "09:00",
-      "closes": "21:00"
+      "closes": "14:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "opens": "16:00",
+      "closes": "20:30"
     }
   ],
   "priceRange": "50€ - 140€",
@@ -199,7 +205,7 @@ const localBusinessSchema = {
       <div class="seo-intro">
         <h2 class="section-title">Tu nutricionista en Salamanca: alimentación real, resultados reales</h2>
         <div class="seo-intro__text">
-          <p><strong>Somos José Luis, Soraya y Antonio.</strong> Durante los últimos 7 años hemos perfeccionado un método de trabajo que utilizamos en nuestras consultas repartidas por toda España.</p>
+          <p><strong>Soy José Luis Risueño.</strong> Durante los últimos 7 años hemos perfeccionado un método de trabajo que utilizamos en nuestras consultas repartidas por toda España.</p>
           <p>Si estás buscando un <strong>nutricionista en Salamanca</strong> que te escuche, te entienda y diseñe un plan que encaje en tu rutina, estás en el sitio adecuado. No creemos en las dietas restrictivas ni en los planes genéricos. Cada persona es diferente y su alimentación también debería serlo.</p>
           <p>Nuestro enfoque se basa en tres pilares: <strong>alimentación real</strong> (comida de verdad, sin sustitutivos ni batidos), <strong>educación nutricional</strong> (que entiendas el porqué de cada decisión) y <strong>acompañamiento constante</strong> (no te dejamos solo/a entre consultas).</p>
           <p style="font-weight: 700; color: var(--text);">Sigue leyendo y te contamos exactamente cómo podemos ayudarte.</p>
@@ -249,7 +255,7 @@ const localBusinessSchema = {
             <li>✓ Plan nutricional personalizado</li>
             <li>✓ Material de apoyo incluido</li>
           </ul>
-          <div class="price-basic-revision">Revisiones sueltas: 50€/sesión</div>
+          <div class="price-basic-revision">Revisiones sueltas: 40€/sesión</div>
           <a href="#reservar" class="price-basic-btn">PEDIR CITA</a>
         </div>
 
@@ -295,7 +301,7 @@ const localBusinessSchema = {
             <span class="location-icon">📍</span>
             <div>
               <strong>Dirección</strong>
-              <span>Calle Toro, 22, 37002 Salamanca</span>
+              <span>Calle Chile 1 (CRM Bodysolutions), 37003 Salamanca</span>
             </div>
           </div>
           <div class="location-row">
@@ -309,14 +315,14 @@ const localBusinessSchema = {
             <span class="location-icon">💬</span>
             <div>
               <strong>WhatsApp</strong>
-              <span><a href="https://wa.me/34644985209?text=Hola%2C%20quiero%20informarme%20sobre%20Salamanca" target="_blank" rel="noopener">644 98 52 09</a></span>
+              <span><a href="https://wa.me/34623949796?text=Hola%2C%20quiero%20informarme%20sobre%20Salamanca" target="_blank" rel="noopener">623 94 97 96</a></span>
             </div>
           </div>
           <div class="location-row">
             <span class="location-icon">🕐</span>
             <div>
               <strong>Horarios</strong>
-              <span>De Lunes a Viernes de 9:00 a 21:00</span>
+              <span>De Lunes a Viernes de 9:00 a 14:00 y de 16:00 a 20:30</span>
             </div>
           </div>
           <div class="location-row">
@@ -328,17 +334,23 @@ const localBusinessSchema = {
           </div>
           <div class="location-actions">
             <a href="tel:+34623998939" class="loc-btn loc-btn--primary">Llamar al 623 99 89 39</a>
-            <a href="https://wa.me/34644985209?text=Hola%2C%20quiero%20informarme%20sobre%20Salamanca" target="_blank" rel="noopener" class="loc-btn loc-btn--outline">Enviar WhatsApp</a>
+            <a href="https://wa.me/34623949796?text=Hola%2C%20quiero%20informarme%20sobre%20Salamanca" target="_blank" rel="noopener" class="loc-btn loc-btn--outline">Enviar WhatsApp</a>
           </div>
         </div>
         <div class="location-map">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3013.5!2d-5.6640!3d40.9650!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd3f26c5e5c1e6c5%3A0x4e6e4e6e4e6e4e6e!2sCalle%20Toro%2C%2022%2C%2037002%20Salamanca!5e0!3m2!1ses!2ses!4v1710000000000!5m2!1ses!2ses"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3013.5!2d-5.6631!3d40.9650!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd3f26c5e5c1e6c5%3A0x4e6e4e6e4e6e4e6e!2sCalle%20Chile%201%2C%2037003%20Salamanca!5e0!3m2!1ses!2ses!4v1710000000000!5m2!1ses!2ses"
             allowfullscreen=""
             loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"
-            title="Nutricionista en Salamanca — Calle Toro, 22"
+            title="Nutricionista en Salamanca — Calle Chile 1 (CRM Bodysolutions)"
           ></iframe>
+          <img
+            src="/uploads/2023/08/Gemini_Generated_Image_htrkgthtrkgthtrk-1024x637.png"
+            alt="Consulta de nutrición en Salamanca — CRM Bodysolutions"
+            loading="lazy"
+            style="width: 100%; border-radius: var(--radius); margin-top: 16px;"
+          />
         </div>
       </div>
     </div>
@@ -359,7 +371,7 @@ const localBusinessSchema = {
   <!-- CTA intermedio -->
   <CTABox
     title="¿Listo/a para cambiar tu alimentación?"
-    description="Reserva tu primera consulta con nuestros nutricionistas en Salamanca. 50€, sin compromiso. Llama al 623 99 89 39 o escríbenos por WhatsApp al 644 98 52 09."
+    description="Reserva tu primera consulta con tu nutricionista en Salamanca. 50€, sin compromiso. Llama al 623 99 89 39 o escríbenos por WhatsApp al 623 94 97 96."
     ctaText="Reservar mi cita"
     ctaHref="#reservar"
     variant="trust"
@@ -500,7 +512,7 @@ const localBusinessSchema = {
         <h2>Nutricionista en Salamanca: todo lo que necesitas saber</h2>
         <p>Encontrar un buen <strong>nutricionista en Salamanca</strong> puede marcar la diferencia entre seguir una dieta más o hacer un cambio real en tu alimentación. En nuestra consulta en el centro de Salamanca te ofrecemos un servicio de <strong>nutrición personalizada</strong> con profesionales colegiados.</p>
         <p>Ya sea que busques un <strong>dietista en Salamanca</strong> para perder peso, mejorar tu rendimiento deportivo, controlar una patología como la diabetes o el colesterol, o simplemente aprender a comer mejor, nuestro equipo puede ayudarte. Trabajamos con un método probado que combina planes nutricionales individualizados, material educativo y seguimiento continuo por WhatsApp.</p>
-        <p>La primera consulta tiene un precio de <strong>50€</strong> e incluye entrevista completa, plan nutricional personalizado y material de apoyo. Si prefieres un compromiso mayor, el <strong>pack de 4 sesiones por 140€</strong> (ahorro de 30€) es la opción más elegida por nuestros pacientes. Atendemos de lunes a viernes de 9:00 a 21:00, tanto de forma <strong>presencial en Salamanca</strong> como <strong>online por videollamada</strong>.</p>
+        <p>La primera consulta tiene un precio de <strong>50€</strong> e incluye entrevista completa, plan nutricional personalizado y material de apoyo. Si prefieres un compromiso mayor, el <strong>pack de 4 sesiones por 140€</strong> (ahorro de 30€) es la opción más elegida por nuestros pacientes. Atendemos de lunes a viernes de 9:00 a 14:00 y de 16:00 a 20:30, tanto de forma <strong>presencial en Salamanca</strong> como <strong>online por videollamada</strong>.</p>
       </div>
     </div>
   </section>
@@ -508,7 +520,7 @@ const localBusinessSchema = {
   <!-- CTA Final -->
   <CTABox
     title="Tu salud no puede esperar más"
-    description="Reserva tu primera consulta con nuestros nutricionistas en Salamanca por solo 50€. Llama al 623 99 89 39 o escríbenos por WhatsApp al 644 98 52 09."
+    description="Reserva tu primera consulta con tu nutricionista en Salamanca por solo 50€. Llama al 623 99 89 39 o escríbenos por WhatsApp al 623 94 97 96."
     ctaText="Reservar mi cita ahora"
     ctaHref="#reservar"
     variant="trust"

@@ -1,6 +1,6 @@
-# nutricionistaensalamanca.com robots.txt
+# nutricionista.io robots.txt
 
 User-agent: *
 Allow: /
 
-Sitemap: https://nutricionistaensalamanca.com/sitemap.xml
+Sitemap: https://nutricionista.io/sitemap.xml

@@ -1,7 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 
-const siteUrl = 'https://nutricionistaensalamanca.com';
+const siteUrl = 'https://nutricionista.io/nutricionista-salamanca';
 
 const staticPages = [
   { url: '/', priority: '1.0', changefreq: 'weekly' },

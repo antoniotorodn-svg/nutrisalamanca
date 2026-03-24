@@ -23,7 +23,7 @@ const {
 
 const isHomepage = !title && (name || role);
 const displayName = name || "Nutricionista en Salamanca";
-const displayRole = role || "Soraya Sánchez & José Luis Todolí";
+const displayRole = role || "José Luis Risueño — Dietista-Nutricionista";
 ---
 
 <section class="hero">
@@ -31,8 +31,7 @@ const displayRole = role || "Soraya Sánchez & José Luis Todolí";
     <div class="hero__grid">
       <div class="hero__content">
         <div class="hero__avatar-wrap">
-          <img class="hero__avatar" src="/soraya-sanchez.webp" alt="Soraya Sánchez — Nutricionista en Salamanca" width="56" height="56" fetchpriority="high" />
-          <img class="hero__avatar hero__avatar--second" src="https://nutricionista.io/wp-content/uploads/2026/01/Logo-7.png" alt="José Luis Risueño — Nutricionista en Salamanca" width="56" height="56" fetchpriority="high" />
+          <img class="hero__avatar" src="https://nutricionista.io/wp-content/uploads/2026/01/Logo-7.png" alt="José Luis Risueño — Nutricionista en Salamanca" width="56" height="56" fetchpriority="high" />
         </div>
 
         <p class="hero__location">{location}</p>
@@ -44,6 +43,8 @@ const displayRole = role || "Soraya Sánchez & José Luis Todolí";
             title
           )}
         </h1>
+
+        <p class="hero__tagline">Dietista-nutricionista colegiado en Salamanca. Planes personalizados, alimentación real y seguimiento continuo. Primera consulta 50€.</p>
 
         <div class="hero__actions">
           <a href="/#proceso" class="hero__pill">Proceso</a>
@@ -116,10 +117,6 @@ const displayRole = role || "Soraya Sánchez & José Luis Todolí";
     border: 3px solid var(--gold-light);
     object-fit: cover;
     object-position: center top;
-  }
-
-  .hero__avatar--second {
-    margin-left: -14px;
   }
 
   .hero__location {
@@ -217,6 +214,15 @@ const displayRole = role || "Soraya Sánchez & José Luis Todolí";
     margin-bottom: 0;
   }
 
+  .hero__tagline {
+    font-family: var(--font-body);
+    font-size: 1em;
+    line-height: 1.6;
+    color: var(--text-light);
+    margin-bottom: 20px;
+    max-width: 520px;
+  }
+
   .hero__media {
     display: flex;
     justify-content: center;
@@ -294,6 +300,11 @@ const displayRole = role || "Soraya Sánchez & José Luis Todolí";
     .hero__desc {
       font-size: 0.98em;
       line-height: 1.7;
+    }
+
+    .hero__tagline {
+      font-size: 0.95em;
+      max-width: 100%;
     }
 
     .hero__media {

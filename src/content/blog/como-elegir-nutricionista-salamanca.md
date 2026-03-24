@@ -1,11 +1,11 @@
 ---
-title: "Cómo elegir el mejor nutricionista en Leganés"
-description: "Guía práctica para elegir nutricionista en Leganés. Qué criterios valorar, preguntas clave y por qué la cercanía importa."
+title: "Cómo elegir el mejor nutricionista en Salamanca"
+description: "Guía práctica para elegir nutricionista en Salamanca. Qué criterios valorar, preguntas clave y por qué la cercanía importa."
 date: "2025-12-05"
-tags: ["Leganés", "Nutrición general"]
+tags: ["Salamanca", "Nutrición general"]
 ---
 
-Elegir un nutricionista es una decisión importante que va a afectar directamente a tu salud. En Leganés la oferta de profesionales de la nutrición ha crecido en los últimos años, lo que por un lado es una buena noticia, pero por otro puede dificultar la tarea de saber a quién confiar algo tan personal como tu alimentación.
+Elegir un nutricionista es una decisión importante que va a afectar directamente a tu salud. En Salamanca la oferta de profesionales de la nutrición ha crecido en los últimos años, lo que por un lado es una buena noticia, pero por otro puede dificultar la tarea de saber a quién confiar algo tan personal como tu alimentación.
 
 En este artículo te damos las claves para elegir bien, basándonos en criterios objetivos y en lo que realmente marca la diferencia entre un buen profesional y uno que simplemente reparte dietas genéricas.
 
@@ -18,7 +18,7 @@ Este es el primer filtro y el más importante. Como explicamos en detalle en nue
 **Lo que debes comprobar:**
 
 - Que tenga el **Grado en Nutrición Humana y Dietética** (o la diplomatura equivalente)
-- Que esté **colegiado** en el Colegio Oficial de Dietistas-Nutricionistas de la Comunidad de Madrid (CODINMA)
+- Que esté **colegiado** en el Colegio Oficial de Dietistas-Nutricionistas de Castilla y León (CODiNuCyL)
 - Que puedas verificar su número de colegiado
 
 > No te conformes con cursos privados, certificaciones de academias online o títulos de "coach nutricional". Tu salud merece un profesional sanitario titulado.
@@ -63,13 +63,11 @@ Las reseñas de otros pacientes pueden darte una idea bastante fiable de la expe
 
 Uno de los factores que muchas personas pasan por alto es la **ubicación del profesional**. La nutrición es un proceso que requiere constancia y seguimiento regular. Si tu nutricionista está lejos, es más probable que acabes espaciando las consultas o abandonando.
 
-### Nutricionista cerca de ti en Leganés
+### Nutricionista cerca de ti en Salamanca
 
-Leganés es un municipio que ha crecido mucho, y cada zona tiene sus particularidades. La buena noticia es que puedes encontrar atención nutricional de calidad sin necesidad de desplazarte a Madrid.
+Salamanca es una ciudad con una gran calidad de vida, y contar con un nutricionista accesible facilita enormemente el cumplimiento del tratamiento.
 
-Ya vivas en el [centro de Leganés](/nutricionista-leganes-centro), en [Prado del Espino](/nutricionista-prado-del-espino), en el [Olivar de Leganés](/nutricionista-olivar-de-leganes), en la zona de [Bonanza](/nutricionista-bonanza-leganes) o en [Las Lomas](/nutricionista-las-lomas-leganes), tener un nutricionista accesible facilita enormemente el cumplimiento del tratamiento.
-
-En nuestro caso, atendemos presencialmente en la **Clínica Podoimas**, ubicado en una zona de fácil acceso para la mayoría de los residentes de Leganés. Además, la consulta en un centro médico tiene la ventaja de poder coordinarse fácilmente con otros especialistas cuando es necesario.
+En nuestro caso, atendemos presencialmente en nuestra consulta de Salamanca, ubicada en una zona de fácil acceso para la mayoría de los residentes. Además, la consulta en un centro profesional tiene la ventaja de poder coordinarse fácilmente con otros especialistas cuando es necesario.
 
 ### ¿Y si prefieres consulta online?
 

@@ -15,14 +15,14 @@ const {
   name,
   role,
   title,
-  location = "Leganés",
+  location = "Salamanca",
   description = "",
   showVideo = false,
   benefits = []
 } = Astro.props;
 
 const isHomepage = !title && (name || role);
-const displayName = name || "Nutricionista en Leganés";
+const displayName = name || "Nutricionista en Salamanca";
 const displayRole = role || "Soraya Sánchez & José Luis Todolí";
 ---
 
@@ -31,8 +31,8 @@ const displayRole = role || "Soraya Sánchez & José Luis Todolí";
     <div class="hero__grid">
       <div class="hero__content">
         <div class="hero__avatar-wrap">
-          <img class="hero__avatar" src="/soraya-sanchez.webp" alt="Soraya Sánchez — Nutricionista en Leganés" width="56" height="56" fetchpriority="high" />
-          <img class="hero__avatar hero__avatar--second" src="/jose-luis-todoli.webp" alt="José Luis Todolí — Nutricionista en Leganés" width="56" height="56" fetchpriority="high" />
+          <img class="hero__avatar" src="/soraya-sanchez.webp" alt="Soraya Sánchez — Nutricionista en Salamanca" width="56" height="56" fetchpriority="high" />
+          <img class="hero__avatar hero__avatar--second" src="/jose-luis-todoli.webp" alt="José Luis Todolí — Nutricionista en Salamanca" width="56" height="56" fetchpriority="high" />
         </div>
 
         <p class="hero__location">{location}</p>

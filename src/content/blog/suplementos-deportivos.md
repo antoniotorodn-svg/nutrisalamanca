@@ -98,12 +98,12 @@ Antes de comprar cualquier suplemento, hazte estas preguntas:
 
 En nuestro servicio de [nutrición deportiva](/nutricion-deportiva), trabajamos primero en optimizar tu alimentación y después, solo si es necesario, recomendamos los suplementos que realmente pueden beneficiarte según tu deporte, tus objetivos y tus analíticas.
 
-Si quieres saber qué necesitas realmente para rendir más y recuperarte mejor, te invito a consultar también nuestra guía de [alimentación para runners](/blog/alimentacion-runners-leganes) o a pedir cita para que valoremos tu caso de forma personalizada.
+Si quieres saber qué necesitas realmente para rendir más y recuperarte mejor, te invito a consultar también nuestra guía de [alimentación para runners](/blog/alimentacion-runners-salamanca) o a pedir cita para que valoremos tu caso de forma personalizada.
 
 ---
 
 ## Artículos relacionados
 
 - [Qué comer antes y después de entrenar: guía de nutrición deportiva](/blog/nutricion-deportiva-que-comer)
-- [Alimentación para runners: cómo mejorar tu rendimiento en Leganés](/blog/alimentacion-runners-leganes)
+- [Alimentación para runners: cómo mejorar tu rendimiento en Salamanca](/blog/alimentacion-runners-salamanca)
 - [Meal prep semanal: organiza tus comidas y mejora tu alimentación](/blog/meal-prep-semanal)

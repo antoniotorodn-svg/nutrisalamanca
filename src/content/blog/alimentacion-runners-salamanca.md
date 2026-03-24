@@ -1,15 +1,15 @@
 ---
-title: "Alimentación para runners: cómo mejorar tu rendimiento en Leganés"
-description: "Guía nutricional completa para corredores. Consejos de tus nutricionistas deportivos en Leganés para optimizar tus entrenamientos."
+title: "Alimentación para runners: cómo mejorar tu rendimiento en Salamanca"
+description: "Guía nutricional completa para corredores. Consejos de tus nutricionistas deportivos en Salamanca para optimizar tus entrenamientos."
 date: "2025-10-25"
-tags: ["Nutrición deportiva", "Leganés"]
+tags: ["Nutrición deportiva", "Salamanca"]
 ---
 
-Leganés es un paraíso para los corredores. Desde las rutas por el **Parque Regional del curso medio del río Guadarrama** hasta los circuitos por las urbanizaciones de Bonanza, Las Lomas o Valdepastores, pasando por los caminos del **Monte de Leganés** y las sendas que conectan con Pozuelo y Majadahonda, no faltan opciones para entrenar al aire libre.
+Salamanca es un paraíso para los corredores. Desde las rutas por la **ribera del río Tormes** hasta los circuitos por el **Parque de los Jesuitas** y la **Vía de la Plata**, pasando por los caminos que conectan con la dehesa salmantina, no faltan opciones para entrenar al aire libre.
 
 Pero si corres con regularidad, sabes que el entrenamiento es solo una parte de la ecuación. **La alimentación puede marcar la diferencia** entre mejorar tus marcas o quedarte estancado, entre terminar una carrera con energía o arrastrarte los últimos kilómetros.
 
-Como nutricionistas deportivos en Leganés, trabajamos con corredores de todos los niveles: desde quienes preparan su primera carrera de 10K hasta maratonianos experimentados. Y en todos los casos, la nutrición es la herramienta que más impacto tiene en sus resultados.
+Como nutricionistas deportivos en Salamanca, trabajamos con corredores de todos los niveles: desde quienes preparan su primera carrera de 10K hasta maratonianos experimentados. Y en todos los casos, la nutrición es la herramienta que más impacto tiene en sus resultados.
 
 ## Nutrición para el entrenamiento diario
 
@@ -96,11 +96,11 @@ La recuperación empieza en el momento en que cruzas la línea de meta o termina
 - **Depender excesivamente de geles y suplementos** sin tener una alimentación base adecuada
 - **No periodizar la alimentación**: tus necesidades nutricionales cambian según la fase de entrenamiento (base, carga, competición, recuperación)
 
-## Corre por Leganés, come con estrategia
+## Corre por Salamanca, come con estrategia
 
-Si corres habitualmente por las rutas de Leganés, ya tienes una parte fundamental cubierta: el entrenamiento. Ahora es el momento de dar el siguiente paso y **optimizar tu alimentación** para que cada kilómetro cuente más.
+Si corres habitualmente por las rutas de Salamanca, ya tienes una parte fundamental cubierta: el entrenamiento. Ahora es el momento de dar el siguiente paso y **optimizar tu alimentación** para que cada kilómetro cuente más.
 
-En nuestra consulta de [nutrición deportiva](/nutricion-deportiva) en Leganés, ya sea en el [centro de Leganés](/nutricionista-leganes-centro) o en la zona de [Prado del Espino](/nutricionista-prado-del-espino), diseñamos planes nutricionales específicos para corredores que incluyen:
+En nuestra consulta de [nutrición deportiva](/nutricion-deportiva) en Salamanca diseñamos planes nutricionales específicos para corredores que incluyen:
 
 - **Periodización nutricional** adaptada a tu plan de entrenamiento
 - **Estrategia de carrera** personalizada para tu próxima competición

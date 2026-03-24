@@ -1,6 +1,6 @@
 ---
 title: "Qué comer antes y después de entrenar: guía de nutrición deportiva"
-description: "Optimiza tu rendimiento deportivo con la alimentación correcta. Tus nutricionistas deportivos en Leganés te explican qué comer antes y después del ejercicio."
+description: "Optimiza tu rendimiento deportivo con la alimentación correcta. Tus nutricionistas deportivos en Salamanca te explican qué comer antes y después del ejercicio."
 date: "2025-11-05"
 tags: ["Nutrición deportiva"]
 ---
@@ -98,7 +98,7 @@ Después de años trabajando con deportistas en nuestro servicio de [nutrición 
 
 - Los carbohidratos son tu combustible principal: asegúrate de que tengan un papel protagonista
 - En carreras largas (más de 90 min), necesitarás estrategias de reposición durante el ejercicio
-- Consulta nuestra guía específica de [alimentación para runners](/blog/alimentacion-runners-leganes)
+- Consulta nuestra guía específica de [alimentación para runners](/blog/alimentacion-runners-salamanca)
 
 ### Deportes de equipo (fútbol, pádel, baloncesto)
 
@@ -110,12 +110,12 @@ Después de años trabajando con deportistas en nuestro servicio de [nutrición 
 
 Estas recomendaciones son generales, pero **cada deportista es diferente**. Tu plan nutricional debe tener en cuenta tu composición corporal, tu volumen de entrenamiento, tus horarios y tus objetivos específicos.
 
-En nuestra consulta de [nutrición deportiva](/nutricion-deportiva) en Leganés, diseñamos planes nutricionales individualizados que se adaptan a tu deporte, tu calendario de competiciones y tu día a día. Si quieres dejar de improvisar y empezar a comer con estrategia, estaremos encantados de ayudarte.
+En nuestra consulta de [nutrición deportiva](/nutricion-deportiva) en Salamanca, diseñamos planes nutricionales individualizados que se adaptan a tu deporte, tu calendario de competiciones y tu día a día. Si quieres dejar de improvisar y empezar a comer con estrategia, estaremos encantados de ayudarte.
 
 ---
 
 ## Artículos relacionados
 
 - [Suplementos deportivos: cuáles funcionan y cuáles son un desperdicio](/blog/suplementos-deportivos)
-- [Alimentación para runners: cómo mejorar tu rendimiento en Leganés](/blog/alimentacion-runners-leganes)
+- [Alimentación para runners: cómo mejorar tu rendimiento en Salamanca](/blog/alimentacion-runners-salamanca)
 - [Meal prep semanal: organiza tus comidas y mejora tu alimentación](/blog/meal-prep-semanal)

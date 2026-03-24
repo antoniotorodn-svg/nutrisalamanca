@@ -2,7 +2,7 @@
 title: "Tu primera consulta con el nutricionista: qué esperar y cómo prepararte"
 description: "Todo lo que necesitas saber antes de tu primera visita al nutricionista. Qué llevar, qué preguntas te harán y cómo es el proceso."
 date: "2025-11-28"
-tags: ["Nutrición general", "Leganés"]
+tags: ["Nutrición general", "Salamanca"]
 ---
 
 Dar el paso de pedir cita con un nutricionista puede generar cierta incertidumbre, sobre todo si nunca has ido a uno. En este artículo te contamos cómo es el proceso de una primera consulta de nutrición, qué deberías llevar y qué puedes esperar en cada fase.
@@ -71,9 +71,9 @@ El seguimiento es donde ocurre la verdadera transformación. Las consultas de re
 
 ## Consulta presencial u online: tú decides
 
-En nuestra consulta de Leganés, atendemos de forma presencial en la Clínica Podoimas. Pero si prefieres la opción a distancia o no puedes desplazarte, el servicio de [nutricionista online](/nutricionista-online) funciona exactamente igual en cuanto a calidad y seguimiento.
+En nuestra consulta de Salamanca, atendemos de forma presencial. Pero si prefieres la opción a distancia o no puedes desplazarte, el servicio de [nutricionista online](/nutricionista-online) funciona exactamente igual en cuanto a calidad y seguimiento.
 
-Si todavía estás decidiendo a qué profesional acudir, te recomendamos leer nuestra guía sobre [cómo elegir el mejor nutricionista en Leganés](/blog/como-elegir-nutricionista-leganes) para que puedas tomar una decisión informada.
+Si todavía estás decidiendo a qué profesional acudir, te recomendamos leer nuestra guía sobre [cómo elegir el mejor nutricionista en Salamanca](/blog/como-elegir-nutricionista-salamanca) para que puedas tomar una decisión informada.
 
 ## Da el primer paso con confianza
 
@@ -83,6 +83,6 @@ No necesitas tener todo claro ni haber cambiado nada antes de venir. **Vienes pr
 
 ## Artículos relacionados
 
-- [Cómo elegir el mejor nutricionista en Leganés](/blog/como-elegir-nutricionista-leganes)
+- [Cómo elegir el mejor nutricionista en Salamanca](/blog/como-elegir-nutricionista-salamanca)
 - [¿Cuándo acudir a un nutricionista? 7 señales que no debes ignorar](/blog/cuando-acudir-nutricionista)
 - [10 mitos sobre la pérdida de peso que debes dejar de creer](/blog/mitos-perdida-peso)

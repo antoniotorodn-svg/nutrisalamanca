@@ -1,6 +1,6 @@
-# nutricionistaenleganes.com robots.txt
+# nutricionistaensalamanca.com robots.txt
 
 User-agent: *
 Allow: /
 
-Sitemap: https://nutricionistaenleganes.com/sitemap.xml
+Sitemap: https://nutricionistaensalamanca.com/sitemap.xml

@@ -1,6 +1,6 @@
 ---
 title: "Dieta mediterránea: guía completa para comer bien y cuidar tu salud"
-description: "Todo sobre la dieta mediterránea: beneficios, alimentos clave, menú semanal y cómo adaptarla a tu día a día. Guía de tu nutricionista en Leganés."
+description: "Todo sobre la dieta mediterránea: beneficios, alimentos clave, menú semanal y cómo adaptarla a tu día a día. Guía de tu nutricionista en Salamanca."
 date: "2025-11-15"
 tags: ["Alimentación saludable", "Pérdida de peso"]
 ---

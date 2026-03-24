@@ -18,7 +18,7 @@ const {
   schema
 } = Astro.props;
 
-const siteUrl = 'https://nutricionistaenleganes.com';
+const siteUrl = 'https://nutricionistaensalamanca.com';
 const fullUrl = `${siteUrl}${canonical}`;
 const fullOgImage = `${siteUrl}${ogImage}`;
 
@@ -26,23 +26,23 @@ const fullOgImage = `${siteUrl}${ogImage}`;
 const defaultSchema = {
   "@context": "https://schema.org",
   "@type": ["Dietitian", "LocalBusiness"],
-  "name": "Nutricionista en Leganés — Soraya Sánchez & José Luis Todolí",
-  "description": "Nutricionistas colegiados en Leganés. Consulta presencial en Clínica Podoimas y online. Pérdida de peso, nutrición deportiva, salud digestiva, hormonal y clínica.",
+  "name": "Nutricionista en Salamanca — Soraya Sánchez & José Luis Todolí",
+  "description": "Nutricionistas colegiados en Salamanca. Consulta presencial y online. Pérdida de peso, nutrición deportiva, salud digestiva, hormonal y clínica.",
   "image": fullOgImage,
   "url": siteUrl,
   "telephone": "+34623998939",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Calle Nuestra Señora de Begoña, 8",
-    "addressLocality": "Leganés",
-    "addressRegion": "Madrid",
-    "postalCode": "28911",
+    "streetAddress": "Consulta de nutrición en Salamanca",
+    "addressLocality": "Salamanca",
+    "addressRegion": "Castilla y León",
+    "postalCode": "37001",
     "addressCountry": "ES"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": "40.3280",
-    "longitude": "-3.7635"
+    "latitude": "40.9701",
+    "longitude": "-5.6635"
   },
   "priceRange": "40€ - 100€",
   "currenciesAccepted": "EUR",
@@ -56,19 +56,20 @@ const defaultSchema = {
     }
   ],
   "areaServed": [
-    { "@type": "City", "name": "Leganés", "sameAs": "https://es.wikipedia.org/wiki/Leganés" },
-    { "@type": "Place", "name": "Zarzaquemada" },
-    { "@type": "Place", "name": "La Fortuna" },
-    { "@type": "Place", "name": "San Nicasio" },
-    { "@type": "Place", "name": "El Carrascal" },
-    { "@type": "Place", "name": "Arroyo Culebro" },
-    { "@type": "Place", "name": "Vereda de los Estudiantes" }
+    { "@type": "City", "name": "Salamanca", "sameAs": "https://es.wikipedia.org/wiki/Salamanca" },
+    { "@type": "Place", "name": "Centro Histórico" },
+    { "@type": "Place", "name": "Barrio del Oeste" },
+    { "@type": "Place", "name": "San Bernardo" },
+    { "@type": "Place", "name": "Garrido" },
+    { "@type": "Place", "name": "Pizarrales" },
+    { "@type": "Place", "name": "Prosperidad" },
+    { "@type": "Place", "name": "Sancti Spíritus" }
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "Servicios de nutrición en Leganés",
+    "name": "Servicios de nutrición en Salamanca",
     "itemListElement": [
-      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Primera consulta de nutrición en Leganés", "description": "Valoración nutricional completa, análisis de composición corporal y plan personalizado" }, "price": "50", "priceCurrency": "EUR" },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Primera consulta de nutrición en Salamanca", "description": "Valoración nutricional completa, análisis de composición corporal y plan personalizado" }, "price": "50", "priceCurrency": "EUR" },
       { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Seguimiento nutricional" }, "price": "40", "priceCurrency": "EUR" },
       { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Pack 3 seguimientos" }, "price": "100", "priceCurrency": "EUR" }
     ]
@@ -103,7 +104,7 @@ const schemas = schema ? [defaultSchema, schema] : [defaultSchema];
   <meta property="og:description" content={description}>
   <meta property="og:image" content={fullOgImage}>
   <meta property="og:locale" content="es_ES">
-  <meta property="og:site_name" content="Nutricionista en Leganés — nutricionistaenleganes.com">
+  <meta property="og:site_name" content="Nutricionista en Salamanca — nutricionistaensalamanca.com">
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">

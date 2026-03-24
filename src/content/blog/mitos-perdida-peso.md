@@ -1,6 +1,6 @@
 ---
 title: "10 mitos sobre la pérdida de peso que debes dejar de creer"
-description: "Desmontamos los 10 mitos más comunes sobre adelgazar. Tus nutricionistas en Leganés te cuentan la verdad sobre la pérdida de peso."
+description: "Desmontamos los 10 mitos más comunes sobre adelgazar. Tus nutricionistas en Salamanca te cuentan la verdad sobre la pérdida de peso."
 date: "2025-11-20"
 tags: ["Pérdida de peso"]
 ---

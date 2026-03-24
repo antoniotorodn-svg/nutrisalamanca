@@ -1,6 +1,6 @@
 ---
 title: "Intolerancias alimentarias: cómo identificarlas y qué hacer"
-description: "Guía completa sobre intolerancias alimentarias: síntomas, diagnóstico y tratamiento nutricional. Tu nutricionista en Leganés te ayuda."
+description: "Guía completa sobre intolerancias alimentarias: síntomas, diagnóstico y tratamiento nutricional. Tu nutricionista en Salamanca te ayuda."
 date: "2025-10-15"
 tags: ["Salud digestiva", "Nutrición clínica"]
 ---

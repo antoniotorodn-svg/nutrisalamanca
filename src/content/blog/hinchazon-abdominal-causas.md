@@ -1,6 +1,6 @@
 ---
 title: "Hinchazón abdominal: causas, soluciones y cuándo consultar"
-description: "¿Sufres hinchazón abdominal? Descubre las causas más comunes y las soluciones nutricionales. Consulta con tu nutricionista en Leganés."
+description: "¿Sufres hinchazón abdominal? Descubre las causas más comunes y las soluciones nutricionales. Consulta con tu nutricionista en Salamanca."
 date: "2025-10-20"
 tags: ["Salud digestiva"]
 ---

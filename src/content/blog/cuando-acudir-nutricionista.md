@@ -1,13 +1,13 @@
 ---
 title: "¿Cuándo acudir a un nutricionista? 7 señales que no debes ignorar"
-description: "Descubre las 7 señales claras de que necesitas un nutricionista profesional. Tus dietistas-nutricionistas en Leganés te explican cuándo pedir ayuda."
+description: "Descubre las 7 señales claras de que necesitas un nutricionista profesional. Tus dietistas-nutricionistas en Salamanca te explican cuándo pedir ayuda."
 date: "2025-12-15"
-tags: ["Nutrición general", "Leganés"]
+tags: ["Nutrición general", "Salamanca"]
 ---
 
 Muchas personas piensan que el nutricionista es solo para quienes quieren perder peso. Sin embargo, la realidad es muy diferente: un dietista-nutricionista es un profesional sanitario que puede ayudarte en situaciones muy diversas, desde problemas digestivos hasta la optimización de tu rendimiento deportivo.
 
-Después de años atendiendo pacientes en nuestra consulta de Leganés, hemos comprobado que la mayoría llega más tarde de lo ideal. **Cuanto antes busques ayuda profesional, mejores serán los resultados.** Estas son las 7 señales que indican que ha llegado el momento de pedir cita.
+Después de años atendiendo pacientes en nuestra consulta de Salamanca, hemos comprobado que la mayoría llega más tarde de lo ideal. **Cuanto antes busques ayuda profesional, mejores serán los resultados.** Estas son las 7 señales que indican que ha llegado el momento de pedir cita.
 
 ## 1. Cambios de peso que no puedes explicar
 
@@ -79,13 +79,13 @@ Un plan de [pérdida de peso](/perdida-de-peso) enfocado a deportistas, por ejem
 
 ## ¿Y si no puedo acudir de forma presencial?
 
-Si vives fuera de Leganés o tu horario no te permite desplazarte, la consulta de [nutricionista online](/nutricionista-online) es una alternativa igual de efectiva. Trabajamos con las mismas herramientas y el mismo nivel de personalización que en consulta presencial.
+Si vives fuera de Salamanca o tu horario no te permite desplazarte, la consulta de [nutricionista online](/nutricionista-online) es una alternativa igual de efectiva. Trabajamos con las mismas herramientas y el mismo nivel de personalización que en consulta presencial.
 
 ## Da el primer paso
 
 Si te has sentido identificado con alguna de estas señales, no lo dejes pasar más. Cuanto antes actúes, antes empezarás a notar mejoras reales en tu salud y en cómo te sientes cada día.
 
-En nuestra [consulta de nutrición](/) en Leganés, te ofrecemos un abordaje personalizado, basado en evidencia científica y adaptado a tu vida real. Sin dietas milagro, sin restricciones innecesarias y con todo el acompañamiento que necesites.
+En nuestra [consulta de nutrición](/) en Salamanca, te ofrecemos un abordaje personalizado, basado en evidencia científica y adaptado a tu vida real. Sin dietas milagro, sin restricciones innecesarias y con todo el acompañamiento que necesites.
 
 ---
 
@@ -93,4 +93,4 @@ En nuestra [consulta de nutrición](/) en Leganés, te ofrecemos un abordaje per
 
 - [Diferencia entre dietista y nutricionista: lo que realmente importa](/blog/diferencia-dietista-nutricionista)
 - [Tu primera consulta con el nutricionista: qué esperar y cómo prepararte](/blog/primera-consulta-nutricionista)
-- [Cómo elegir el mejor nutricionista en Leganés](/blog/como-elegir-nutricionista-leganes)
+- [Cómo elegir el mejor nutricionista en Salamanca](/blog/como-elegir-nutricionista-salamanca)

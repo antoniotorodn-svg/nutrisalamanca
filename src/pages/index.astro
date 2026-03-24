@@ -331,7 +331,11 @@ const localBusinessSchema = {
             <a href="https://wa.me/34644985209?text=Hola%2C%20quiero%20informarme%20sobre%20Salamanca" target="_blank" rel="noopener" class="loc-btn loc-btn--outline">Enviar WhatsApp</a>
           </div>
         </div>
-        <div class="location-map">
+        <div class="location-media">
+          <div class="location-clinic-photo">
+            <img src="https://nutricionista.io/wp-content/uploads/2023/08/Gemini_Generated_Image_htrkgthtrkgthtrk-1024x637.png" alt="Consulta de nutrición en Salamanca — entrada" width="1024" height="637" loading="lazy" />
+          </div>
+          <div class="location-map">
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24181.0!2d-5.6635!3d40.9701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd3f26170e14a5a1%3A0x3bcb3baead81db93!2sSalamanca!5e0!3m2!1ses!2ses!4v1710000000000!5m2!1ses!2ses"
             allowfullscreen=""
@@ -339,6 +343,7 @@ const localBusinessSchema = {
             referrerpolicy="no-referrer-when-downgrade"
             title="Nutricionista en Salamanca — consulta de nutrición en Salamanca"
           ></iframe>
+        </div>
         </div>
       </div>
     </div>
@@ -430,6 +435,48 @@ const localBusinessSchema = {
           <span class="para-quien-icon">🔄</span>
           <h3>Quieres aprender a comer bien</h3>
           <p>No tienes un objetivo concreto de peso, pero sabes que tu alimentación podría mejorar. Quieres entender qué comes, organizarte mejor y sentirte con más energía.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 10b. TRANSFORMACIONES -->
+  <section class="section" id="transformaciones">
+    <div class="container">
+      <h2 class="section-title">Transformaciones reales de nuestros pacientes</h2>
+      <p class="section-sub">Estos son algunos de los resultados que han conseguido nuestros pacientes con el acompañamiento de nuestros nutricionistas en Salamanca.</p>
+      <div class="transform-grid">
+        <div class="transform-card">
+          <img src="https://nutricionista.io/wp-content/uploads/2023/01/6-1024x768.png" alt="Transformación de Mari Carmen — Nutricionista en Salamanca" width="1024" height="768" loading="lazy" />
+          <p class="transform-name">Mari Carmen</p>
+        </div>
+        <div class="transform-card">
+          <img src="https://nutricionista.io/wp-content/uploads/2023/01/5-1024x768.png" alt="Transformación de Laura — Nutricionista en Salamanca" width="1024" height="768" loading="lazy" />
+          <p class="transform-name">Laura</p>
+        </div>
+        <div class="transform-card">
+          <img src="https://nutricionista.io/wp-content/uploads/2023/01/4-1024x768.png" alt="Transformación de Sara — Nutricionista en Salamanca" width="1024" height="768" loading="lazy" />
+          <p class="transform-name">Sara</p>
+        </div>
+        <div class="transform-card">
+          <img src="https://nutricionista.io/wp-content/uploads/2023/01/2-1024x768.png" alt="Transformación de Juan — Nutricionista en Salamanca" width="1024" height="768" loading="lazy" />
+          <p class="transform-name">Juan</p>
+        </div>
+        <div class="transform-card">
+          <img src="https://nutricionista.io/wp-content/uploads/2023/01/1-1024x768.png" alt="Transformación de Andrea — Nutricionista en Salamanca" width="1024" height="768" loading="lazy" />
+          <p class="transform-name">Andrea</p>
+        </div>
+        <div class="transform-card">
+          <img src="https://nutricionista.io/wp-content/uploads/2023/01/3-1024x768.png" alt="Transformación de Jorge — Nutricionista en Salamanca" width="1024" height="768" loading="lazy" />
+          <p class="transform-name">Jorge</p>
+        </div>
+        <div class="transform-card">
+          <img src="https://nutricionista.io/wp-content/uploads/2023/01/8-1024x768.png" alt="Transformación de Paula — Nutricionista en Salamanca" width="1024" height="768" loading="lazy" />
+          <p class="transform-name">Paula</p>
+        </div>
+        <div class="transform-card">
+          <img src="https://nutricionista.io/wp-content/uploads/2023/01/7-1024x768.png" alt="Transformación de Lucía — Nutricionista en Salamanca" width="1024" height="768" loading="lazy" />
+          <p class="transform-name">Lucía</p>
         </div>
       </div>
     </div>
@@ -1009,4 +1056,78 @@ const localBusinessSchema = {
   }
 
   .seo-bottom strong { color: var(--text); }
+
+  /* TRANSFORMACIONES */
+  .transform-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    margin-top: var(--spacing-lg);
+  }
+
+  .transform-card {
+    border-radius: 16px;
+    overflow: hidden;
+    background: var(--white);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+    transition: transform 0.2s;
+  }
+
+  .transform-card:hover {
+    transform: translateY(-4px);
+  }
+
+  .transform-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .transform-name {
+    text-align: center;
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 0.95em;
+    color: var(--text);
+    padding: 12px 8px;
+    margin: 0;
+  }
+
+  @media (max-width: 900px) {
+    .transform-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .transform-grid {
+      grid-template-columns: 1fr 1fr;
+      gap: 0.75rem;
+    }
+
+    .transform-name {
+      font-size: 0.88em;
+      padding: 8px 6px;
+    }
+  }
+
+  /* LOCATION MEDIA (clinic photo + map) */
+  .location-media {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .location-clinic-photo {
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  }
+
+  .location-clinic-photo img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
 </style>

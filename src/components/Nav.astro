@@ -5,7 +5,7 @@
 <nav class="nav">
   <div class="nav__inner">
     <a href="/" class="nav__logo">
-      <span class="nav__logo-name">NUTRICIONISTA SALAMANCA</span>
+      <img class="nav__logo-img" src="https://nutricionista.io/wp-content/uploads/2025/02/Skinmed-3.png" alt="Nutricionista en Salamanca" width="180" height="40" />
     </a>
     <ul class="nav__links" id="navLinks">
       <li><a href="/#servicios" class="nav__link">Servicios</a></li>
@@ -66,13 +66,10 @@
     text-decoration: none;
   }
 
-  .nav__logo-name {
-    font-family: var(--font-body);
-    font-size: 0.8125rem;
-    font-weight: 700;
-    color: var(--text);
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
+  .nav__logo-img {
+    height: 36px;
+    width: auto;
+    display: block;
   }
 
   .nav__links {
@@ -138,9 +135,8 @@
       padding: 10px 16px;
     }
 
-    .nav__logo-name {
-      font-size: 0.75rem;
-      letter-spacing: 0.1em;
+    .nav__logo-img {
+      height: 30px;
     }
 
     .nav__links {
@@ -153,8 +149,8 @@
   }
 
   @media (max-width: 480px) {
-    .nav__logo-name {
-      font-size: 0.6875rem;
+    .nav__logo-img {
+      height: 26px;
     }
   }
 </style>

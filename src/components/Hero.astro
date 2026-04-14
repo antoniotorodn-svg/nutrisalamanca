@@ -31,7 +31,13 @@ const displayRole = role || "José Luis Risueño — Dietista-Nutricionista";
     <div class="hero__grid">
       <div class="hero__content">
         <div class="hero__avatar-wrap">
-          <img class="hero__avatar" src="https://nutricionista.io/wp-content/uploads/2026/01/Logo-7.png" alt="José Luis Risueño — Nutricionista en Salamanca" width="56" height="56" fetchpriority="high" />
+          <div class="hero__avatars">
+            <img class="hero__avatar" src="https://nutricionista.io/wp-content/uploads/2026/01/Logo-7.png" alt="José Luis Risueño — Nutricionista en Salamanca" width="56" height="56" fetchpriority="high" />
+            <img class="hero__avatar" src="https://nutricionista.io/wp-content/uploads/2024/06/1.png" alt="Profesional del equipo de Nutricionista en Salamanca" width="56" height="56" loading="lazy" />
+            <img class="hero__avatar" src="https://nutricionista.io/wp-content/uploads/2023/04/El-texto-del-parrafo-9.png" alt="Profesional del equipo de Nutricionista en Salamanca" width="56" height="56" loading="lazy" />
+            <img class="hero__avatar" src="https://nutricionista.io/wp-content/uploads/2026/01/13.png" alt="Profesional del equipo de Nutricionista en Salamanca" width="56" height="56" loading="lazy" />
+          </div>
+          <span class="hero__avatars-label">Equipo de nutricionistas colegiados</span>
         </div>
 
         <p class="hero__location">{location}</p>
@@ -106,7 +112,19 @@ const displayRole = role || "José Luis Risueño — Dietista-Nutricionista";
 
   .hero__avatar-wrap {
     display: flex;
+    align-items: center;
+    gap: 12px;
     margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
+
+  .hero__avatars {
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .hero__avatars .hero__avatar + .hero__avatar {
+    margin-left: -14px;
   }
 
   .hero__avatar {
@@ -114,9 +132,18 @@ const displayRole = role || "José Luis Risueño — Dietista-Nutricionista";
     height: 56px;
     border-radius: 50%;
     background: var(--sand);
-    border: 3px solid var(--gold-light);
+    border: 3px solid var(--white);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     object-fit: cover;
     object-position: center top;
+  }
+
+  .hero__avatars-label {
+    font-family: var(--font-body);
+    font-size: 0.82em;
+    font-weight: 600;
+    color: var(--text-light);
+    letter-spacing: 0.01em;
   }
 
   .hero__location {
@@ -282,8 +309,16 @@ const displayRole = role || "José Luis Risueño — Dietista-Nutricionista";
     }
 
     .hero__avatar {
-      width: 48px;
-      height: 48px;
+      width: 44px;
+      height: 44px;
+    }
+
+    .hero__avatars .hero__avatar + .hero__avatar {
+      margin-left: -10px;
+    }
+
+    .hero__avatars-label {
+      font-size: 0.78em;
     }
 
     .hero__actions {

@@ -1,0 +1,63 @@
+---
+// Banner de mudanza - aparece en la parte superior de todas las páginas
+---
+
+<div class="moved-banner" role="region" aria-label="Aviso de nueva dirección">
+  <div class="moved-banner__inner">
+    <span class="moved-banner__icon" aria-hidden="true">📍</span>
+    <p class="moved-banner__text">
+      <strong>¡Nos hemos mudado!</strong>
+      Nuestra consulta está ahora en <strong>Calle Chile 1, Salamanca</strong>.
+      Te esperamos en nuestras nuevas instalaciones.
+    </p>
+  </div>
+</div>
+
+<style>
+  .moved-banner {
+    background: linear-gradient(135deg, var(--gold) 0%, #B8922E 100%);
+    color: var(--white);
+    padding: 10px 16px;
+    text-align: center;
+    font-family: var(--font-body);
+    position: relative;
+    z-index: 1001;
+  }
+
+  .moved-banner__inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .moved-banner__icon {
+    font-size: 1.1em;
+    line-height: 1;
+  }
+
+  .moved-banner__text {
+    margin: 0;
+    font-size: 0.9em;
+    line-height: 1.4;
+    color: var(--white);
+  }
+
+  .moved-banner__text strong {
+    font-weight: 700;
+    color: var(--white);
+  }
+
+  @media (max-width: 600px) {
+    .moved-banner {
+      padding: 8px 12px;
+    }
+
+    .moved-banner__text {
+      font-size: 0.82em;
+    }
+  }
+</style>

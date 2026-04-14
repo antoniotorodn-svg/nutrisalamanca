@@ -142,7 +142,7 @@ const localBusinessSchema = {
   "telephone": "+34623998939",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Consulta de nutrición en Salamanca",
+    "streetAddress": "Calle Chile 1",
     "addressLocality": "Salamanca",
     "addressRegion": "Salamanca",
     "postalCode": "37001",
@@ -295,7 +295,7 @@ const localBusinessSchema = {
             <span class="location-icon">📍</span>
             <div>
               <strong>Dirección</strong>
-              <span>Salamanca, 37001</span>
+              <span>Calle Chile 1, Salamanca 37001</span>
             </div>
           </div>
           <div class="location-row">
@@ -424,6 +424,48 @@ const localBusinessSchema = {
           <span class="para-quien-icon">🔄</span>
           <h3>Quieres aprender a comer bien</h3>
           <p>No tienes un objetivo concreto de peso, pero sabes que tu alimentación podría mejorar. Quieres entender qué comes, organizarte mejor y sentirte con más energía.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 10a. EQUIPO DE PROFESIONALES -->
+  <section class="section" id="equipo">
+    <div class="container">
+      <h2 class="section-title">Nuestro equipo de profesionales</h2>
+      <p class="section-sub">Un equipo de dietistas-nutricionistas colegiados que te acompañarán durante todo el proceso. Expertos en pérdida de peso, nutrición deportiva, salud digestiva, hormonal y clínica.</p>
+      <div class="equipo-grid">
+        <div class="equipo-card">
+          <div class="equipo-photo">
+            <img src="/jose-luis-todoli.webp" alt="José Luis Risueño — Dietista-Nutricionista en Salamanca" width="600" height="600" loading="lazy" />
+          </div>
+          <h3 class="equipo-name">José Luis Risueño</h3>
+          <p class="equipo-role">Dietista-Nutricionista colegiado</p>
+          <p class="equipo-desc">Especialista en pérdida de grasa, nutrición clínica y educación alimentaria. Más de 7 años de experiencia.</p>
+        </div>
+        <div class="equipo-card">
+          <div class="equipo-photo">
+            <img src="https://nutricionista.io/wp-content/uploads/2024/06/1.png" alt="Profesional del equipo de Nutricionista en Salamanca" width="600" height="600" loading="lazy" />
+          </div>
+          <h3 class="equipo-name">Soraya Sánchez</h3>
+          <p class="equipo-role">Dietista-Nutricionista colegiada</p>
+          <p class="equipo-desc">Especializada en salud hormonal, SOP, menopausia y nutrición femenina a lo largo de todas las etapas de la vida.</p>
+        </div>
+        <div class="equipo-card">
+          <div class="equipo-photo">
+            <img src="https://nutricionista.io/wp-content/uploads/2023/04/El-texto-del-parrafo-9.png" alt="Profesional del equipo de Nutricionista en Salamanca" width="600" height="600" loading="lazy" />
+          </div>
+          <h3 class="equipo-name">Andrea Martín</h3>
+          <p class="equipo-role">Dietista-Nutricionista colegiada</p>
+          <p class="equipo-desc">Experta en salud digestiva, SIBO, intolerancias alimentarias y microbiota. Enfoque integrativo y personalizado.</p>
+        </div>
+        <div class="equipo-card">
+          <div class="equipo-photo">
+            <img src="https://nutricionista.io/wp-content/uploads/2026/01/13.png" alt="Profesional del equipo de Nutricionista en Salamanca" width="600" height="600" loading="lazy" />
+          </div>
+          <h3 class="equipo-name">Daniel Gómez</h3>
+          <p class="equipo-role">Dietista-Nutricionista colegiado</p>
+          <p class="equipo-desc">Especialista en nutrición deportiva, rendimiento y composición corporal. Trabaja con deportistas de todos los niveles.</p>
         </div>
       </div>
     </div>
@@ -1105,6 +1147,88 @@ const localBusinessSchema = {
     .transform-name {
       font-size: 0.88em;
       padding: 8px 6px;
+    }
+  }
+
+  /* EQUIPO DE PROFESIONALES */
+  .equipo-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+    margin-top: var(--spacing-lg);
+  }
+
+  .equipo-card {
+    background: var(--white);
+    border-radius: var(--radius);
+    padding: 24px 20px;
+    box-shadow: 0 2px 16px rgba(0, 0, 0, 0.05);
+    text-align: center;
+    transition: all 0.3s;
+  }
+
+  .equipo-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
+  }
+
+  .equipo-photo {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto 18px;
+    border: 3px solid var(--gold-light);
+    background: var(--sand);
+  }
+
+  .equipo-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+    display: block;
+  }
+
+  .equipo-name {
+    font-family: var(--font-body);
+    font-size: 1.05em;
+    font-weight: 700;
+    color: var(--text);
+    margin: 0 0 4px;
+  }
+
+  .equipo-role {
+    font-size: 0.82em;
+    font-weight: 600;
+    color: var(--gold);
+    margin: 0 0 10px;
+    letter-spacing: 0.02em;
+  }
+
+  .equipo-desc {
+    font-size: 0.86em;
+    color: var(--text-light);
+    line-height: 1.55;
+    margin: 0;
+  }
+
+  @media (max-width: 1100px) {
+    .equipo-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 18px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .equipo-grid {
+      grid-template-columns: 1fr;
+      gap: 14px;
+    }
+
+    .equipo-photo {
+      width: 120px;
+      height: 120px;
     }
   }
 

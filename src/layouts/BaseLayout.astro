@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import CookieBanner from '../components/CookieBanner.astro';
+import MovedBanner from '../components/MovedBanner.astro';
 
 interface Props {
   title: string;
@@ -33,7 +34,7 @@ const defaultSchema = {
   "telephone": "+34623998939",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Consulta de nutrición en Salamanca",
+    "streetAddress": "Calle Chile 1",
     "addressLocality": "Salamanca",
     "addressRegion": "Castilla y León",
     "postalCode": "37001",
@@ -137,6 +138,7 @@ const schemas = schema ? [defaultSchema, schema] : [defaultSchema];
   <link rel="dns-prefetch" href="https://assets.calendly.com">
 </head>
 <body>
+  <MovedBanner />
   <slot name="nav" />
 
   <main>

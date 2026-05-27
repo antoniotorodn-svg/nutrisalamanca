@@ -1,4 +1,11 @@
 {
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://nutricionista.io/nutricionista-salamanca",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
